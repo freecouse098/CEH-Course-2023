@@ -15,6 +15,8 @@
 6. [Day 6 : nmap basic concept # 1 CEH "Certified Ethical Hacking"](https://youtube.com/watch?v=yv6ffgby2Xk&feature=shares)
 
 7. [Day 7 : Nmap Scripting Engine (NSE) # 2 CEH "Certified Ethical Hacking"](https://youtube.com/watch?v=gT6f_X2A19s&feature=shares)
+8. 
+9. [Day 8 : "Day 8 : Hacking With Usernames CEH "Certified Ethical Hacking"](https://youtu.be/wv478i8kufs)
 
 
 
